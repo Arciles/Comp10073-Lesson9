@@ -1,3 +1,3 @@
-# COMP1073-Lesson8
+# COMP1073-Lesson9
 
-COMP1073 Lesson 8 for Client-Scripting @ Georgian College
+COMP1073 Lesson 9 for Client-Scripting @ Georgian College
